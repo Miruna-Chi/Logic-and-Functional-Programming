@@ -1,0 +1,928 @@
+-----------------------------
+|user_id      |occupation   |
+-----------------------------
+|1            |technician   |
+|2            |other        |
+|3            |writer       |
+|4            |technician   |
+|5            |other        |
+|6            |executive    |
+|7            |administrator|
+|8            |administrator|
+|9            |student      |
+|10           |lawyer       |
+|11           |other        |
+|12           |other        |
+|13           |educator     |
+|14           |scientist    |
+|15           |educator     |
+|16           |entertainment|
+|17           |programmer   |
+|18           |other        |
+|19           |librarian    |
+|20           |homemaker    |
+|21           |writer       |
+|22           |writer       |
+|23           |artist       |
+|24           |artist       |
+|programmer   |45           |
+|marketing    |46           |
+|marketing    |47           |
+|administrator|48           |
+|student      |49           |
+|writer       |50           |
+|educator     |51           |
+|student      |52           |
+|programmer   |53           |
+|executive    |54           |
+|programmer   |55           |
+|librarian    |56           |
+|none         |57           |
+|programmer   |58           |
+|educator     |59           |
+|healthcare   |60           |
+|engineer     |61           |
+|administrator|62           |
+|marketing    |63           |
+|educator     |64           |
+|educator     |65           |
+|student      |66           |
+|student      |67           |
+|student      |68           |
+|engineer     |69           |
+|engineer     |70           |
+|scientist    |71           |
+|administrator|72           |
+|student      |73           |
+|scientist    |74           |
+|entertainment|75           |
+|student      |76           |
+|technician   |77           |
+|administrator|78           |
+|administrator|79           |
+|administrator|80           |
+|student      |81           |
+|programmer   |82           |
+|other        |83           |
+|executive    |84           |
+|educator     |85           |
+|administrator|86           |
+|administrator|87           |
+|librarian    |88           |
+|administrator|89           |
+|educator     |90           |
+|marketing    |91           |
+|entertainment|92           |
+|executive    |93           |
+|student      |94           |
+|administrator|95           |
+|artist       |96           |
+|artist       |97           |
+|executive    |98           |
+|student      |99           |
+|executive    |100          |
+|student      |101          |
+|programmer   |102          |
+|student      |103          |
+|student      |104          |
+|engineer     |105          |
+|retired      |106          |
+|scientist    |107          |
+|educator     |108          |
+|other        |109          |
+|student      |110          |
+|engineer     |111          |
+|salesman     |112          |
+|executive    |113          |
+|programmer   |114          |
+|engineer     |115          |
+|healthcare   |116          |
+|student      |117          |
+|administrator|118          |
+|programmer   |119          |
+|other        |120          |
+|librarian    |121          |
+|writer       |122          |
+|artist       |123          |
+|student      |124          |
+|lawyer       |125          |
+|lawyer       |126          |
+|none         |127          |
+|marketing    |128          |
+|marketing    |129          |
+|none         |130          |
+|administrator|131          |
+|other        |132          |
+|engineer     |133          |
+|programmer   |134          |
+|student      |135          |
+|other        |136          |
+|educator     |137          |
+|doctor       |138          |
+|student      |139          |
+|student      |140          |
+|programmer   |141          |
+|other        |142          |
+|technician   |143          |
+|programmer   |144          |
+|entertainment|145          |
+|artist       |146          |
+|librarian    |147          |
+|engineer     |148          |
+|marketing    |149          |
+|artist       |150          |
+|administrator|151          |
+|educator     |152          |
+|student      |153          |
+|student      |154          |
+|other        |155          |
+|educator     |156          |
+|engineer     |157          |
+|educator     |158          |
+|student      |159          |
+|programmer   |160          |
+|lawyer       |161          |
+|artist       |162          |
+|administrator|163          |
+|healthcare   |164          |
+|other        |165          |
+|educator     |166          |
+|other        |167          |
+|other        |168          |
+|other        |169          |
+|healthcare   |170          |
+|educator     |171          |
+|marketing    |172          |
+|other        |173          |
+|administrator|174          |
+|scientist    |175          |
+|scientist    |176          |
+|programmer   |177          |
+|other        |178          |
+|entertainment|179          |
+|administrator|180          |
+|executive    |181          |
+|programmer   |182          |
+|scientist    |183          |
+|librarian    |184          |
+|librarian    |185          |
+|executive    |186          |
+|educator     |187          |
+|student      |188          |
+|artist       |189          |
+|administrator|190          |
+|administrator|191          |
+|educator     |192          |
+|student      |193          |
+|administrator|194          |
+|scientist    |195          |
+|writer       |196          |
+|technician   |197          |
+|student      |198          |
+|writer       |199          |
+|programmer   |200          |
+|writer       |201          |
+|educator     |202          |
+|student      |203          |
+|librarian    |204          |
+|lawyer       |205          |
+|student      |206          |
+|marketing    |207          |
+|engineer     |208          |
+|educator     |209          |
+|engineer     |210          |
+|salesman     |211          |
+|educator     |212          |
+|executive    |213          |
+|librarian    |214          |
+|programmer   |215          |
+|engineer     |216          |
+|other        |217          |
+|administrator|218          |
+|programmer   |219          |
+|librarian    |220          |
+|student      |221          |
+|programmer   |222          |
+|student      |223          |
+|educator     |224          |
+|administrator|225          |
+|student      |226          |
+|executive    |227          |
+|student      |228          |
+|librarian    |229          |
+|student      |230          |
+|librarian    |231          |
+|scientist    |232          |
+|engineer     |233          |
+|retired      |234          |
+|educator     |235          |
+|writer       |236          |
+|administrator|237          |
+|administrator|238          |
+|artist       |239          |
+|educator     |240          |
+|student      |241          |
+|educator     |242          |
+|educator     |243          |
+|technician   |244          |
+|student      |245          |
+|student      |246          |
+|engineer     |247          |
+|student      |248          |
+|student      |249          |
+|executive    |250          |
+|doctor       |251          |
+|engineer     |252          |
+|librarian    |253          |
+|educator     |254          |
+|entertainment|255          |
+|none         |256          |
+|student      |257          |
+|student      |258          |
+|student      |259          |
+|artist       |260          |
+|administrator|261          |
+|student      |262          |
+|programmer   |263          |
+|writer       |264          |
+|executive    |265          |
+|administrator|266          |
+|engineer     |267          |
+|engineer     |268          |
+|librarian    |269          |
+|student      |270          |
+|engineer     |271          |
+|scientist    |272          |
+|other        |273          |
+|student      |274          |
+|engineer     |275          |
+|student      |276          |
+|administrator|277          |
+|librarian    |278          |
+|programmer   |279          |
+|librarian    |280          |
+|student      |281          |
+|administrator|282          |
+|programmer   |283          |
+|executive    |284          |
+|programmer   |285          |
+|student      |286          |
+|salesman     |287          |
+|marketing    |288          |
+|none         |289          |
+|engineer     |290          |
+|student      |291          |
+|programmer   |292          |
+|writer       |293          |
+|technician   |294          |
+|educator     |295          |
+|administrator|296          |
+|educator     |297          |
+|executive    |298          |
+|doctor       |299          |
+|programmer   |300          |
+|student      |301          |
+|educator     |302          |
+|student      |303          |
+|student      |304          |
+|programmer   |305          |
+|other        |306          |
+|student      |307          |
+|retired      |308          |
+|scientist    |309          |
+|educator     |310          |
+|technician   |311          |
+|other        |312          |
+|marketing    |313          |
+|student      |314          |
+|educator     |315          |
+|other        |316          |
+|administrator|317          |
+|retired      |318          |
+|programmer   |319          |
+|student      |320          |
+|educator     |321          |
+|student      |322          |
+|student      |323          |
+|student      |324          |
+|technician   |325          |
+|administrator|326          |
+|student      |327          |
+|administrator|328          |
+|educator     |329          |
+|educator     |330          |
+|entertainment|331          |
+|student      |332          |
+|other        |333          |
+|librarian    |334          |
+|executive    |335          |
+|salesman     |336          |
+|scientist    |337          |
+|librarian    |338          |
+|lawyer       |339          |
+|engineer     |340          |
+|student      |341          |
+|other        |342          |
+|engineer     |343          |
+|librarian    |344          |
+|librarian    |345          |
+|other        |346          |
+|student      |347          |
+|student      |348          |
+|retired      |349          |
+|student      |350          |
+|educator     |351          |
+|programmer   |352          |
+|scientist    |353          |
+|librarian    |354          |
+|student      |355          |
+|homemaker    |356          |
+|executive    |357          |
+|educator     |358          |
+|student      |359          |
+|other        |360          |
+|student      |361          |
+|homemaker    |362          |
+|student      |363          |
+|engineer     |364          |
+|lawyer       |365          |
+|student      |366          |
+|student      |367          |
+|student      |368          |
+|student      |369          |
+|writer       |370          |
+|engineer     |371          |
+|student      |372          |
+|other        |373          |
+|executive    |374          |
+|entertainment|375          |
+|other        |376          |
+|student      |377          |
+|student      |378          |
+|programmer   |379          |
+|engineer     |380          |
+|artist       |381          |
+|engineer     |382          |
+|administrator|383          |
+|programmer   |384          |
+|writer       |385          |
+|salesman     |386          |
+|entertainment|387          |
+|other        |388          |
+|writer       |389          |
+|writer       |390          |
+|student      |391          |
+|writer       |392          |
+|student      |393          |
+|administrator|394          |
+|other        |395          |
+|engineer     |396          |
+|student      |397          |
+|other        |398          |
+|other        |399          |
+|administrator|400          |
+|healthcare   |401          |
+|engineer     |402          |
+|other        |403          |
+|programmer   |404          |
+|healthcare   |405          |
+|educator     |406          |
+|engineer     |407          |
+|student      |408          |
+|administrator|409          |
+|artist       |410          |
+|educator     |411          |
+|educator     |412          |
+|educator     |413          |
+|programmer   |414          |
+|educator     |415          |
+|student      |416          |
+|other        |417          |
+|none         |418          |
+|lawyer       |419          |
+|educator     |420          |
+|programmer   |421          |
+|entertainment|422          |
+|other        |423          |
+|marketing    |424          |
+|student      |425          |
+|educator     |426          |
+|doctor       |427          |
+|student      |428          |
+|student      |429          |
+|scientist    |430          |
+|marketing    |431          |
+|entertainment|432          |
+|artist       |433          |
+|student      |434          |
+|engineer     |435          |
+|administrator|436          |
+|other        |437          |
+|administrator|438          |
+|administrator|439          |
+|other        |440          |
+|technician   |441          |
+|student      |442          |
+|salesman     |443          |
+|lawyer       |444          |
+|writer       |445          |
+|educator     |446          |
+|administrator|447          |
+|entertainment|448          |
+|librarian    |449          |
+|educator     |450          |
+|student      |451          |
+|administrator|452          |
+|student      |453          |
+|other        |454          |
+|administrator|455          |
+|technician   |456          |
+|salesman     |457          |
+|technician   |458          |
+|student      |459          |
+|other        |460          |
+|student      |461          |
+|student      |462          |
+|healthcare   |463          |
+|writer       |464          |
+|other        |465          |
+|student      |466          |
+|engineer     |467          |
+|engineer     |468          |
+|educator     |469          |
+|programmer   |470          |
+|student      |471          |
+|student      |472          |
+|student      |473          |
+|executive    |474          |
+|programmer   |475          |
+|student      |476          |
+|student      |477          |
+|other        |478          |
+|educator     |479          |
+|retired      |480          |
+|retired      |481          |
+|student      |482          |
+|scientist    |483          |
+|student      |484          |
+|educator     |485          |
+|educator     |486          |
+|engineer     |487          |
+|technician   |488          |
+|other        |489          |
+|artist       |490          |
+|writer       |491          |
+|educator     |492          |
+|engineer     |493          |
+|administrator|494          |
+|engineer     |495          |
+|student      |496          |
+|student      |497          |
+|writer       |498          |
+|programmer   |499          |
+|administrator|500          |
+|student      |501          |
+|student      |502          |
+|writer       |503          |
+|writer       |504          |
+|other        |505          |
+|programmer   |506          |
+|writer       |507          |
+|marketing    |508          |
+|administrator|509          |
+|other        |510          |
+|student      |511          |
+|other        |512          |
+|administrator|513          |
+|programmer   |514          |
+|marketing    |515          |
+|librarian    |516          |
+|student      |517          |
+|writer       |518          |
+|other        |519          |
+|healthcare   |520          |
+|student      |521          |
+|engineer     |522          |
+|administrator|523          |
+|educator     |524          |
+|administrator|525          |
+|marketing    |526          |
+|librarian    |527          |
+|student      |528          |
+|administrator|529          |
+|engineer     |530          |
+|salesman     |531          |
+|student      |532          |
+|librarian    |533          |
+|student      |534          |
+|educator     |535          |
+|engineer     |536          |
+|engineer     |537          |
+|scientist    |538          |
+|administrator|539          |
+|engineer     |540          |
+|student      |541          |
+|student      |542          |
+|scientist    |543          |
+|other        |544          |
+|technician   |545          |
+|executive    |546          |
+|educator     |547          |
+|writer       |548          |
+|scientist    |549          |
+|student      |550          |
+|programmer   |551          |
+|other        |552          |
+|educator     |553          |
+|scientist    |554          |
+|educator     |555          |
+|educator     |556          |
+|writer       |557          |
+|writer       |558          |
+|executive    |559          |
+|student      |560          |
+|engineer     |561          |
+|administrator|562          |
+|librarian    |563          |
+|retired      |564          |
+|student      |565          |
+|student      |566          |
+|entertainment|567          |
+|educator     |568          |
+|educator     |569          |
+|educator     |570          |
+|artist       |571          |
+|educator     |572          |
+|retired      |573          |
+|educator     |574          |
+|marketing    |575          |
+|executive    |576          |
+|student      |577          |
+|administrator|578          |
+|educator     |579          |
+|student      |580          |
+|other        |581          |
+|student      |582          |
+|engineer     |583          |
+|student      |584          |
+|librarian    |585          |
+|student      |586          |
+|other        |587          |
+|student      |588          |
+|lawyer       |589          |
+|educator     |590          |
+|librarian    |591          |
+|student      |592          |
+|educator     |593          |
+|educator     |594          |
+|programmer   |595          |
+|artist       |596          |
+|other        |597          |
+|marketing    |598          |
+|student      |599          |
+|programmer   |600          |
+|artist       |601          |
+|other        |602          |
+|programmer   |603          |
+|educator     |604          |
+|engineer     |605          |
+|programmer   |606          |
+|healthcare   |607          |
+|other        |608          |
+|student      |609          |
+|student      |610          |
+|librarian    |611          |
+|educator     |612          |
+|marketing    |613          |
+|educator     |614          |
+|educator     |615          |
+|scientist    |616          |
+|writer       |617          |
+|student      |618          |
+|student      |619          |
+|writer       |620          |
+|student      |621          |
+|programmer   |622          |
+|educator     |623          |
+|student      |624          |
+|programmer   |625          |
+|scientist    |626          |
+|engineer     |627          |
+|none         |628          |
+|other        |629          |
+|healthcare   |630          |
+|student      |631          |
+|student      |632          |
+|programmer   |633          |
+|engineer     |634          |
+|other        |635          |
+|educator     |636          |
+|other        |637          |
+|engineer     |638          |
+|librarian    |639          |
+|student      |640          |
+|student      |641          |
+|student      |642          |
+|scientist    |643          |
+|retired      |644          |
+|programmer   |645          |
+|student      |646          |
+|educator     |647          |
+|engineer     |648          |
+|student      |649          |
+|engineer     |650          |
+|retired      |651          |
+|other        |652          |
+|executive    |653          |
+|student      |654          |
+|healthcare   |655          |
+|educator     |656          |
+|none         |657          |
+|programmer   |658          |
+|educator     |659          |
+|student      |660          |
+|programmer   |661          |
+|librarian    |662          |
+|other        |663          |
+|engineer     |664          |
+|administrator|665          |
+|administrator|666          |
+|librarian    |667          |
+|writer       |668          |
+|other        |669          |
+|technician   |670          |
+|programmer   |671          |
+|administrator|672          |
+|educator     |673          |
+|student      |674          |
+|other        |675          |
+|programmer   |676          |
+|other        |677          |
+|educator     |678          |
+|student      |679          |
+|lawyer       |680          |
+|marketing    |681          |
+|programmer   |682          |
+|librarian    |683          |
+|student      |684          |
+|librarian    |685          |
+|educator     |686          |
+|healthcare   |687          |
+|administrator|688          |
+|other        |689          |
+|salesman     |690          |
+|educator     |691          |
+|engineer     |692          |
+|healthcare   |693          |
+|programmer   |694          |
+|writer       |695          |
+|other        |696          |
+|other        |697          |
+|programmer   |698          |
+|other        |699          |
+|student      |700          |
+|librarian    |701          |
+|other        |702          |
+|educator     |703          |
+|librarian    |704          |
+|student      |705          |
+|student      |706          |
+|librarian    |707          |
+|homemaker    |708          |
+|other        |709          |
+|student      |710          |
+|student      |711          |
+|student      |712          |
+|other        |713          |
+|engineer     |714          |
+|technician   |715          |
+|administrator|716          |
+|technician   |717          |
+|technician   |718          |
+|other        |719          |
+|administrator|720          |
+|entertainment|721          |
+|homemaker    |722          |
+|executive    |723          |
+|executive    |724          |
+|student      |725          |
+|administrator|726          |
+|student      |727          |
+|executive    |728          |
+|student      |729          |
+|scientist    |730          |
+|educator     |731          |
+|other        |732          |
+|other        |733          |
+|other        |734          |
+|healthcare   |735          |
+|writer       |736          |
+|programmer   |737          |
+|technician   |738          |
+|technician   |739          |
+|educator     |740          |
+|writer       |741          |
+|student      |742          |
+|programmer   |743          |
+|marketing    |744          |
+|writer       |745          |
+|engineer     |746          |
+|other        |747          |
+|administrator|748          |
+|other        |749          |
+|administrator|750          |
+|other        |751          |
+|retired      |752          |
+|salesman     |753          |
+|librarian    |754          |
+|educator     |755          |
+|none         |756          |
+|student      |757          |
+|student      |758          |
+|student      |759          |
+|other        |760          |
+|student      |761          |
+|administrator|762          |
+|scientist    |763          |
+|educator     |764          |
+|student      |765          |
+|other        |766          |
+|engineer     |767          |
+|administrator|768          |
+|executive    |769          |
+|student      |770          |
+|student      |771          |
+|writer       |772          |
+|student      |773          |
+|student      |774          |
+|executive    |775          |
+|librarian    |776          |
+|programmer   |777          |
+|student      |778          |
+|student      |779          |
+|programmer   |780          |
+|student      |781          |
+|artist       |782          |
+|marketing    |783          |
+|administrator|784          |
+|engineer     |785          |
+|engineer     |786          |
+|student      |787          |
+|administrator|788          |
+|other        |789          |
+|technician   |790          |
+|educator     |791          |
+|programmer   |792          |
+|student      |793          |
+|educator     |794          |
+|programmer   |795          |
+|writer       |796          |
+|other        |797          |
+|writer       |798          |
+|administrator|799          |
+|programmer   |800          |
+|writer       |801          |
+|administrator|802          |
+|administrator|803          |
+|educator     |804          |
+|other        |805          |
+|marketing    |806          |
+|healthcare   |807          |
+|salesman     |808          |
+|marketing    |809          |
+|other        |810          |
+|educator     |811          |
+|technician   |812          |
+|student      |813          |
+|other        |814          |
+|other        |815          |
+|other        |816          |
+|student      |817          |
+|librarian    |818          |
+|administrator|819          |
+|student      |820          |
+|engineer     |821          |
+|librarian    |822          |
+|artist       |823          |
+|other        |824          |
+|engineer     |825          |
+|artist       |826          |
+|engineer     |827          |
+|librarian    |828          |
+|writer       |829          |
+|programmer   |830          |
+|other        |831          |
+|technician   |832          |
+|writer       |833          |
+|other        |834          |
+|executive    |835          |
+|artist       |836          |
+|artist       |837          |
+|student      |838          |
+|entertainment|839          |
+|artist       |840          |
+|doctor       |841          |
+|writer       |842          |
+|librarian    |843          |
+|engineer     |844          |
+|doctor       |845          |
+|lawyer       |846          |
+|student      |847          |
+|engineer     |848          |
+|student      |849          |
+|technician   |850          |
+|other        |851          |
+|administrator|852          |
+|writer       |853          |
+|student      |854          |
+|librarian    |855          |
+|marketing    |856          |
+|administrator|857          |
+|educator     |858          |
+|other        |859          |
+|retired      |860          |
+|student      |861          |
+|executive    |862          |
+|student      |863          |
+|programmer   |864          |
+|artist       |865          |
+|other        |866          |
+|scientist    |867          |
+|programmer   |868          |
+|student      |869          |
+|student      |870          |
+|executive    |871          |
+|student      |872          |
+|administrator|873          |
+|scientist    |874          |
+|student      |875          |
+|other        |876          |
+|other        |877          |
+|educator     |878          |
+|administrator|879          |
+|student      |880          |
+|marketing    |881          |
+|engineer     |882          |
+|librarian    |883          |
+|engineer     |884          |
+|other        |885          |
+|student      |886          |
+|student      |887          |
+|scientist    |888          |
+|technician   |889          |
+|student      |890          |
+|administrator|891          |
+|other        |892          |
+|student      |893          |
+|educator     |894          |
+|librarian    |895          |
+|writer       |896          |
+|other        |897          |
+|homemaker    |898          |
+|other        |899          |
+|retired      |900          |
+|executive    |901          |
+|artist       |902          |
+|educator     |903          |
+|student      |904          |
+|other        |905          |
+|librarian    |906          |
+|other        |907          |
+|librarian    |908          |
+|educator     |909          |
+|healthcare   |910          |
+|writer       |911          |
+|other        |912          |
+|student      |913          |
+|other        |914          |
+|entertainment|915          |
+|engineer     |916          |
+|student      |917          |
+|scientist    |918          |
+|other        |919          |
+|artist       |920          |
+|student      |921          |
+|administrator|922          |
+|student      |923          |
+|other        |924          |
+|salesman     |925          |
+|entertainment|926          |
+|programmer   |927          |
+|student      |928          |
+|scientist    |929          |
+|scientist    |930          |
+|educator     |931          |
+|educator     |932          |
+|student      |933          |
+|engineer     |934          |
+|doctor       |935          |
+|other        |936          |
+|educator     |937          |
+|technician   |938          |
+|student      |939          |
+|administrator|940          |
+|student      |941          |
+|librarian    |942          |
+|student      |943          |
+-----------------------------
+
